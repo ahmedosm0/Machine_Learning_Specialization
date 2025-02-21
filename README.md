@@ -1,6 +1,6 @@
 # Machine Learning Specialization
 
-This is all you need to start machine learning
+This repository contains all you need to start your journey in machine learning. It includes structured chapters with optional labs for hands-on practice.
 
 ### Practice Optional Labs
 
